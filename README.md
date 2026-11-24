@@ -1,4 +1,4 @@
-# soumyak
+# Soumyak
 
 CS undergrad. I build software and experiment with ML. 
 
